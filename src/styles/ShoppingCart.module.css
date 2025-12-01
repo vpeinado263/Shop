@@ -1,48 +1,44 @@
 .container {
-    background-color: transparent;
-    width: 100%;
+  background-color: transparent;
+  width: 100%;
 }
 .shoppingContainer {
-    display: flex;
-    flex-direction: row;
-    max-width: 90%;
-    margin: 0 auto;
-    background-color: transparent;  
+  display: flex;
+  flex-direction: row;
+  max-width: 90%;
+  margin: 0 auto;
+  background-color: transparent;
 }
 .shoppingTitle {
-    text-align: center;
-    background-color: transparent;
+  text-align: center;
+  background-color: transparent;
 }
 .box {
-    display: flex;
-    flex-direction: column;
-    gap: 12px;
-    padding: 20px;
-    border: 1px solid #ccc;
-    border-radius: 8px;
-    width: 18rem;
-     background-color: transparent;   
-  }
-  
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  width: 18rem;
+  background-color: transparent;
+}
+
 .mensaje {
-    text-align: center;
-    color: #4c791f;
-    font-style: italic;
-  }
+  text-align: center;
+  color: #4c791f;
+  font-style: italic;
+}
 
 .clearButton {
-    background-color: #e94a5a; 
-    color: white; 
-    border: none; 
-    border-radius: 5px; 
-    height: 2rem;
-    cursor: pointer; 
-    transition: background-color 0.3s; 
+  background-color: #e94a5a;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  height: 2rem;
+  cursor: pointer;
+  transition: background-color 0.3s;
 }
 .clearButton:hover {
-    background-color: #c82333; 
+  background-color: #c82333;
 }
-
-
-
- 

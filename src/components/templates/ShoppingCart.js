@@ -64,7 +64,11 @@ const ShoppingCart = () => {
           <div className={styles.box}>
             {cart.length > 0 ? (
               cart.map((item) => (
-                <CartItem key={item.id} item={item} deleteFromCart={deleteFromCart} />
+                <CartItem
+                  key={item.id}
+                  item={item}
+                  deleteFromCart={deleteFromCart}
+                />
               ))
             ) : (
               <p className={styles.mensaje}>carrito vacío</p>
@@ -81,5 +85,3 @@ const ShoppingCart = () => {
 };
 
 export default ShoppingCart;
-
-

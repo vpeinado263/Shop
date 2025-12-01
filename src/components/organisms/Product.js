@@ -5,14 +5,12 @@ import { shoppingInitialState } from "../../reducer/shoppingInitialState";
 import CardContainer from "./CardsContainer";
 
 const Product = () => {
-    const [state, dispatch] = useReducer(shoppingReducer, shoppingInitialState);
-    const { products } = state;
+  const [state, dispatch] = useReducer(shoppingReducer, shoppingInitialState);
+  const { products } = state;
 
-    const addToCart = (id) => dispatch({ type: TYPES.ADD_TO_CART, payload: id });
+  const addToCart = (id) => dispatch({ type: TYPES.ADD_TO_CART, payload: id });
 
-    return (
-        <CardContainer addToCart={addToCart} /> 
-    );
+  return <CardContainer addToCart={addToCart} />;
 };
 
 export default Product;

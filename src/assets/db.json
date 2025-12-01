@@ -1,55 +1,50 @@
 {
-"products":[
+  "products": [
     {
-        "id": 1,
-        "img": "https://http2.mlstatic.com/D_NQ_NP_716492-MLA52853049595_122022-O.webp",
-        "title":  "Colchones de aire o espuma",
-        "text": "Para reducir la presión en las áreas vulnerables.",
-        "bgcolor": "rgb(0, 132, 0)",
-        "ccolor": "rgb(238, 238, 238)",
-        "price": 20000
-        
+      "id": 1,
+      "img": "https://http2.mlstatic.com/D_NQ_NP_716492-MLA52853049595_122022-O.webp",
+      "title": "Colchones de aire o espuma",
+      "text": "Para reducir la presión en las áreas vulnerables.",
+      "bgcolor": "rgb(0, 132, 0)",
+      "ccolor": "rgb(238, 238, 238)",
+      "price": 20000
     },
     {
-        "id": 2,
-        "img": "https://www.arcor.com/ar/dist/images/nuestros_negocios/pic_alimentos.jpg",
-        "title":  "Colchones de aire o espuma",
-        "text": "Para reducir la presión en las áreas vulnerables.",
-        "bgcolor": "rgb(26, 53, 104)",
-        "ccolor": "rgb(240, 193, 17)",
-        "price": 20000
-       
+      "id": 2,
+      "img": "https://www.arcor.com/ar/dist/images/nuestros_negocios/pic_alimentos.jpg",
+      "title": "Colchones de aire o espuma",
+      "text": "Para reducir la presión en las áreas vulnerables.",
+      "bgcolor": "rgb(26, 53, 104)",
+      "ccolor": "rgb(240, 193, 17)",
+      "price": 20000
     },
     {
-        "id": 3,
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt7RNCSJqdha63RVEuZP6fPixgYXOdUpq1aQ&s",
-        "title":  "Colchones de aire o espuma",
-        "text": "Para reducir la presión en las áreas vulnerables.",
-        "bgcolor": "rgb(247, 0, 247)",
-        "ccolor": "rgb(224, 103, 15)",
-        "price": 20000
-        
+      "id": 3,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt7RNCSJqdha63RVEuZP6fPixgYXOdUpq1aQ&s",
+      "title": "Colchones de aire o espuma",
+      "text": "Para reducir la presión en las áreas vulnerables.",
+      "bgcolor": "rgb(247, 0, 247)",
+      "ccolor": "rgb(224, 103, 15)",
+      "price": 20000
     },
     {
-        "id": 4,
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJjOhFJXx2SBPoPyMMphgYJUIc_Wxbq-QnQA&s",
-        "title":  "Colchones de aire o espuma",
-        "text": "Para reducir la presión en las áreas vulnerables.",
-        "bgcolor": "rgb(203, 17, 29)",
-        "ccolor": "rgb(43, 44, 46)",
-        "price": 20000
-        
+      "id": 4,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJjOhFJXx2SBPoPyMMphgYJUIc_Wxbq-QnQA&s",
+      "title": "Colchones de aire o espuma",
+      "text": "Para reducir la presión en las áreas vulnerables.",
+      "bgcolor": "rgb(203, 17, 29)",
+      "ccolor": "rgb(43, 44, 46)",
+      "price": 20000
     },
     {
-        "id": 5,
-        "img": "https://http2.mlstatic.com/D_NQ_NP_679220-MLA52534604764_112022-O.webp",
-         "title":  "Colchones de aire o espuma",
-         "text": "Para reducir la presión en las áreas vulnerables.",
-         "bgcolor": "rgb(43, 44, 46)",
-         "ccolor": "rgb(43, 44, 46)",
-         "price": 20000
-        
+      "id": 5,
+      "img": "https://http2.mlstatic.com/D_NQ_NP_679220-MLA52534604764_112022-O.webp",
+      "title": "Colchones de aire o espuma",
+      "text": "Para reducir la presión en las áreas vulnerables.",
+      "bgcolor": "rgb(43, 44, 46)",
+      "ccolor": "rgb(43, 44, 46)",
+      "price": 20000
     }
-],
- "cart": []
+  ],
+  "cart": []
 }

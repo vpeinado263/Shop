@@ -1,59 +1,59 @@
 .container {
-    background-color: transparent;
+  background-color: transparent;
 }
 .carditem {
-            display: flex;
-            flex-direction: column; 
-            border: 1px solid #ccc; 
-            border-radius: 8px; 
-            padding: 16px; 
-            margin: 8px 0; 
-            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
- }
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 16px;
+  margin: 8px 0;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
 .carditemname {
-            font-size: 1rem; 
-            margin: 0;  
+  font-size: 1rem;
+  margin: 0;
 }
 .carditemprice {
-            font-size: 1rem; 
-            color: #555;
-            margin: 4px 0; 
-            
+  font-size: 1rem;
+  color: #555;
+  margin: 4px 0;
 }
 .img {
-            border: 1px solid #ddd;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(117, 52, 52, 0.1);
-            overflow: hidden;
-            transition: transform 0.2s ease;
-            background-color: transparent;
-            text-align: center;
-        }
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(117, 52, 52, 0.1);
+  overflow: hidden;
+  transition: transform 0.2s ease;
+  background-color: transparent;
+  text-align: center;
+}
 .img:hover {
-           transform: scale(1.05); 
+  transform: scale(1.05);
 }
 .carditembuttons {
-            display: flex;
-            gap: 10px;
-            justify-content: center;
-            margin-top: 10px;
-           
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  margin-top: 10px;
 }
 .carditembutton {
-            padding: 8px 16px;
-            background-color: rgb(217, 170, 247); 
-            color: white;
-            border: none;
-            border-radius: 5px;
-            font-size: 0.9rem;
-            cursor: pointer;
-            transition: background-color 0.3s, transform 0.2s;
+  padding: 8px 16px;
+  background-color: rgb(217, 170, 247);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition:
+    background-color 0.3s,
+    transform 0.2s;
 }
 .carditembutton:hover {
-            background-color: #ff1010; 
-            transform: scale(1.05); 
-        }
+  background-color: #ff1010;
+  transform: scale(1.05);
+}
 .carditembutton:active {
-            background-color: #b91919; 
-            transform: scale(0.95); 
+  background-color: #b91919;
+  transform: scale(0.95);
 }
